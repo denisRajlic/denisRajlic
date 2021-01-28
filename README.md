@@ -4,4 +4,4 @@ I'm Denis from Slovenia and I am a Computer Science student. I love building web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisRajlic&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisRajlic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisRajlic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
