@@ -7,7 +7,7 @@ I love building web applications using popular front-end framerworks such as Rea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisRajlic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills and experience
-- :atom: React
+- :electron: React
 
 - :computer: HTML / CSS / JS
 
