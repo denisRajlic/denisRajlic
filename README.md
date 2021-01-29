@@ -5,7 +5,8 @@ I love building web applications using popular front-end framerworks such as Rea
 
 ### Skills and experience
 :atom: React
-:computer: JS / HTML / CSS / Express
+
+:computer: HTML / CSS / JS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisRajlic&show_icons=true&theme=onedark)
 
